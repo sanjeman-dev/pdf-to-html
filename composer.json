@@ -19,10 +19,10 @@
 
   "autoload": {
     "psr-0": {
-      "TonchikTm": "src"
+      "SanjemanDev": "src"
     },
     "psr-4": {
-      "TonchikTm\\PdfToHtml\\": "src/"
+      "SanjemanDev\\PdfToHtml\\": "src/"
     }
   }
 }
